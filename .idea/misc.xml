@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/cloud.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/evening.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/humidity.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_refresh_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/item_background.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/location.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/rain.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/snowflake.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/sunny.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/sunrise.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/sunset.xml" value="0.1" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/temperature.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/wind.xml" value="0.162" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/youse/OneDrive/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/progress_bar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
