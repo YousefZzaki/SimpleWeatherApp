@@ -15,3 +15,4 @@
 local.properties
 /app/src/main/java/com/yz/weatherapp/api/ApiKey.kt
 
+/app/src/main/java/com/yz/weatherapp/api/

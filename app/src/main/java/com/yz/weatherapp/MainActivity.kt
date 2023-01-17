@@ -168,19 +168,19 @@ class MainActivity : AppCompatActivity() {
             binding?.tvCountryName?.text = weatherResponse.sys.country
             binding?.tvSunrise?.text = fromUnix(weatherResponse.sys.sunrise)
             binding?.tvSunset?.text = fromUnix(weatherResponse.sys.sunset)
-            binding?.tvToday?.text = getCurrentTime()
+            binding?.tvTime?.text = getCurrentTime()
         }
     }
 
     private fun getCurrentTime(): String {
         val time = Date()
-        val sdf = SimpleDateFormat("EEE, d MMM h:mm a", Locale.getDefault())
+        val sdf = SimpleDateFormat("h:mm a", Locale.getDefault())
         return sdf.format(time)
     }
 
     private fun fromUnix(timex: Long): String {
         val date = Date(timex * 1000L)
-        val sdf = SimpleDateFormat("hh:mm")
+        val sdf = SimpleDateFormat("hh:mm", Locale.getDefault())
         sdf.timeZone = TimeZone.getDefault()
         return sdf.format(date)
     }
